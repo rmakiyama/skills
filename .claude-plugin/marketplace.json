@@ -1,0 +1,35 @@
+{
+  "name": "rmakiyama",
+  "owner": {
+    "name": "rmakiyama",
+    "url": "https://rmakiyama.com/"
+  },
+  "description": "Skills rmakiyama uses day to day, packaged as Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "development",
+      "description": "Skills for everyday software development workflows.",
+      "source": "./",
+      "strict": false,
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "development",
+      "skills": [
+        "./skills/development/git-commit",
+        "./skills/development/git-branch"
+      ]
+    },
+    {
+      "name": "productivity",
+      "description": "General workflow tools, not code-specific.",
+      "source": "./",
+      "strict": false,
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "productivity",
+      "skills": [
+        "./skills/productivity/imakita3"
+      ]
+    }
+  ]
+}
