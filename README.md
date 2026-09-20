@@ -5,7 +5,7 @@ standalone skills for any agent.
 
 | plugin | contents |
 | --- | --- |
-| `development` | Git conventions for commits and branches |
+| `development` | Git conventions for commits and branches, and code comment principles |
 | `productivity` | General workflow tools, not code-specific |
 
 ## Install
