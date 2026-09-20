@@ -17,7 +17,8 @@
       "skills": [
         "./skills/development/git-commit",
         "./skills/development/git-branch",
-        "./skills/development/code-comment"
+        "./skills/development/code-comment",
+        "./skills/development/git-pr"
       ]
     },
     {
